@@ -1,0 +1,4 @@
+storage:
+  accountname: {Enter blob storage account name}
+  key: {Enter key}
+
